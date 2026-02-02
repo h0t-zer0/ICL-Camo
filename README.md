@@ -107,14 +107,14 @@ You can modify `./utils/config.py` to set all the data paths. Here is an example
 ## 3. Pre-computed Maps and Trained Weights
 
 + Pre-computed Maps: 
-   + COD: [Google Drive]()
-   + PlantCAMO: [Google Drive]()
-   + ACOD-12K: [Google Drive]()
-   + R2C7K: [Google Drive]()
-   + CoCOD8K: [Google Drive]()
+   + COD: [Google Drive](https://drive.google.com/drive/folders/1CUXVWUDUTuXrkYX0ud0CaApz5_31HVkq?usp=sharing)
+   + PlantCAMO: [Google Drive](https://drive.google.com/drive/folders/1kcJ1IXf2bVrPzw3SIU9p7S9-sXqrE6OQ?usp=sharing)
+   + ACOD12K: [Google Drive](https://drive.google.com/drive/folders/1YlsdoyiaJIgwyXWLP-q0egTIjQdW0NGl?usp=sharing)
+   + R2C7K: [Google Drive](https://drive.google.com/drive/folders/1KeFysodSveCg-xH_jm08EQWXQdQndcPu?usp=sharing)
+   + CoCOD8K: [Google Drive](https://drive.google.com/drive/folders/1qVktA3PaPYVCNb99NvsfEkuQQCdPoBb-?usp=sharing)
 
 + Trained Weights: 
-   + COD: [Google Drive]()
+   + COD: [Google Drive](https://drive.google.com/file/d/14raU_vNJbNdagKDBk7h_-JoNvcVTpgwp/view?usp=sharing)
 
 ## Contact
 If you have any questions, please feel free to contact me via email at chunyuanchen113@gmail.com or 2120240549@mail.nankai.edu.cn.
