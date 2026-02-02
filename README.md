@@ -57,6 +57,13 @@ Recently, new paradigms of camouflage object detection (COD), such as referring-
     </em>
 </p>
 
+<p align="center">
+    <img src="assets/Figure_5.png"/> <br />
+    <em> 
+    <b>Figure 5:</b> Additional visual comparisons on the PlantCAMO, ACOD-12K, CoCOD8K, and R2C7K datasets with SOTA methods PCNet, RISNet, BBN, and R2CNet.
+    </em>
+</p>
+
 ## 2. Proposed Baseline
 
 ### 2.0 Environment
