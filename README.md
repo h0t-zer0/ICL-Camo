@@ -10,7 +10,7 @@
 
 ## 1. Overview
 
-- This repository provides code for "_**Learn from Examples: In-Context Learning for Camouflaged Object Detection**_", Under Review. [Paper]() 
+- This repository provides code for "_**Learn from Examples: In-Context Learning for Camouflaged Object Detection**_", Under Review. [[Paper]]() 
 
 ### 1.1 Introduction
 
