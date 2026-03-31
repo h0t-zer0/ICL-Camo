@@ -16,7 +16,7 @@ def structure_loss(logits, mask):
     mask: binary mask {0, 1}
     """
     weit = 1 + 5 * torch.abs(F.avg_pool2d(mask, kernel_size=31, stride=1, padding=15) - mask)
-    wbce = F.binary_cross_entropy_with_logits(logits, mask, reduction='mean')
+    wbce = F.binary_cross_entropy_with_logits(logits, mask, reduction='none')
     wbce = (weit * wbce).sum(dim=(2, 3)) / weit.sum(dim=(2, 3))
 
     pred = torch.sigmoid(logits)
